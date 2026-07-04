@@ -1,6 +1,8 @@
 # MossCoin for Machine: A Cryptocurrency Ecosystem for AI and Machine Networks
 MossCoin for Machine: An Innovative Cryptocurrency System for AI and Machine Networks. This repository contains the core protocols, SDKs, and documentation for creating a secure, efficient, and AI-compatible digital currency ecosystem.
 
+> 📌 **2026 Research Update.** The agent/machine payments landscape moved fast between 2024 and 2026 — x402 (now a Linux Foundation standard), Google AP2, Stripe/OpenAI ACP, Visa & Mastercard agent tokens, and the US GENIUS Act stablecoin law — while real on-chain demand stayed thin. See **[2026 State of the Machine Economy & Agentic Payments](2026_State_of_the_Machine_Economy_and_Agentic_Payments.md)** for the sourced review and Mossland's revised angle (MOC as the internal settlement/governance currency of Mossland's own agent economy, on top of open rails).
+
 ## Abstract
 
 MossCoin for Machine, initiated by Mossland, represents a pioneering effort in the domain of cryptocurrency, specifically engineered for integration within AI and machine networks. This project is dedicated to the development of a novel, secure, and efficient digital currency ecosystem, explicitly addressing the unique operational requirements of artificial intelligence (AI) and automated systems.
@@ -31,9 +33,15 @@ MossCoin for Machine is conceptualized as an AI-centric digital currency, differ
 
 ## Project Roadmap
 
-- **2024 Q1**: Engaging in comprehensive research and preliminary studies pertinent to the project.
-- **2024 Q2**: Initiation of protocol design and development, laying the foundational groundwork.
-- **2024 H2**: Commencement of the development phase for the Alpha version of MossCoin.
+**2024 (foundational research — completed):**
+- **2024 Q1**: Comprehensive research and preliminary studies pertinent to the project.
+- **2024 Q2–H2**: Early protocol/design exploration and the research notes collected in this repository.
+
+**2026 (revised direction — see the [2026 Research Update](2026_State_of_the_Machine_Economy_and_Agentic_Payments.md)):**
+- Interoperate with open agent-payment rails (x402 / AP2) rather than build a competing rail; use MOC as the internal accounting/reward unit settling against regulated stablecoins.
+- Design a MOC agent-wallet + spending-policy framework (signed mandates, agent identity), with DAO-governed treasury caps via Agora.
+- Prototype a DePIN-style machine-to-machine settlement use case within BRIDGE 2026's Physical AI direction.
+- Ground the roadmap in a measured, skeptical demand study rather than headline volume.
 
 ## Further Reading
 
