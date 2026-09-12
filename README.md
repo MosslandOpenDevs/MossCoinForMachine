@@ -1,4 +1,9 @@
 # MossCoin for Machine: A Cryptocurrency Ecosystem for AI and Machine Networks
+
+<!-- opendevs-badges:start -->
+[![Repository: MosslandOpenDevs](https://img.shields.io/badge/Repository-MosslandOpenDevs-64748b?style=flat)](https://github.com/MosslandOpenDevs/MossCoinForMachine)
+<!-- opendevs-badges:end -->
+
 MossCoin for Machine: An Innovative Cryptocurrency System for AI and Machine Networks. This repository contains the core protocols, SDKs, and documentation for creating a secure, efficient, and AI-compatible digital currency ecosystem.
 
 > 📌 **2026 Research Update.** The agent/machine payments landscape moved fast between 2024 and 2026 — x402 (now a Linux Foundation standard), Google AP2, Stripe/OpenAI ACP, Visa & Mastercard agent tokens, and the US GENIUS Act stablecoin law — while real on-chain demand stayed thin. See **[2026 State of the Machine Economy & Agentic Payments](2026_State_of_the_Machine_Economy_and_Agentic_Payments.md)** for the sourced review and Mossland's revised angle (MOC as the internal settlement/governance currency of Mossland's own agent economy, on top of open rails).
